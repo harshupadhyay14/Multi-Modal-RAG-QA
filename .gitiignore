@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+venv/
+.env
+
+# PDF & temp files
+*.pdf
+temp.pdf
+uploaded_temp.pdf
+sample.pdf
+
+# OS files
+.DS_Store
+
+# Streamlit logs
+*.log
+
+.streamlit/secrets.toml
